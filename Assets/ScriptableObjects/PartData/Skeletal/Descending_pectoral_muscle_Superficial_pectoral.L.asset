@@ -14,4 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Descending_pectoral_muscle_Superficial_pectoral.L
   partName: Descending_pectoral_muscle_Superficial_pectoral.L
-  descriptionChunks: []
+  descriptionChunks:
+  - 'The descending pectoral muscle originates from the sternum and inserts into
+    the forelimb, functioning primarily to draw the limb inward toward the body.
+    It plays a key role in stabilizing the limb during standing and movement. '
+  - Additionally, it helps control limb positioning during locomotion, preventing
+    excessive outward motion. This muscle contributes to balance and coordinated
+    movement, particularly during activities that require precision and control,
+    ensuring smooth and efficient functioning of the forelimb.

@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Tibialis_cranial_muscle.L
   partName: Tibialis_cranial_muscle.L
-  descriptionChunks: []
+  descriptionChunks:
+  - The tibialis cranialis flexes the hock joint and plays an important role in controlling
+    paw placement. It ensures precise and coordinated movement during locomotion.
+  - ' This muscle helps lift the limb and position it correctly, reducing the risk
+    of injury. It works with other muscles to maintain balance and stability. Its
+    function is essential for smooth gait patterns and controlled movement of the
+    hindlimb.'

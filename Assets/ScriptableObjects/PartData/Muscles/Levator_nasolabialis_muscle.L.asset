@@ -15,4 +15,10 @@ MonoBehaviour:
   id: Levator_nasolabialis_muscle.L
   partName: Levator Nasolabialis Muscle L
   descriptionChunks:
-  - Levator_nasolabialis_muscle.L
+  - 'This muscle lifts the upper lip and dilates the nostrils, playing a key role
+    in both facial expression and respiratory function. It is especially active during
+    sniffing, allowing increased airflow into the nasal passages. '
+  - In addition to its respiratory role, it contributes to expressions such as curiosity,
+    alertness, or mild aggression. It works in coordination with surrounding muscles
+    to control movements of the nose and upper lip, enhancing both sensory intake
+    and expressive communication.

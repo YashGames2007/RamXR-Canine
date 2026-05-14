@@ -14,4 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Anconeus_muscle.R
   partName: Anconeus_muscle.R
-  descriptionChunks: []
+  descriptionChunks:
+  - 'The anconeus is a small triangular muscle located at the posterior aspect of
+    the elbow joint. Its primary function is to assist in extension of the elbow,
+    working alongside the triceps brachii. It also plays a critical role in stabilizing
+    the elbow during movement and weight-bearing activities. '
+  - By maintaining joint alignment, it prevents excessive strain and potential injury.
+    Although relatively small, it contributes significantly to smooth and controlled
+    limb extension, especially during repetitive movements such as walking or running.

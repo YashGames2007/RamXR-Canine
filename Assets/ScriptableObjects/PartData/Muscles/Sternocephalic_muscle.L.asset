@@ -15,4 +15,9 @@ MonoBehaviour:
   id: Sternocephalic_muscle.L
   partName: Sternocephalic muscle L
   descriptionChunks:
-  - 1
+  - 'This muscle extends from the sternum to the head and is responsible for pulling
+    the head downward and to the side. It plays a key role in positioning the head
+    and maintaining balance. '
+  - It also assists in movements such as lowering the head. The muscle works in coordination
+    with other neck muscles to provide controlled and stable head movements, supporting
+    both functional and postural needs.

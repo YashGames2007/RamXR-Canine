@@ -14,4 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: External_abdominal_oblique_muscle.L
   partName: External_abdominal_oblique_muscle.L
-  descriptionChunks: []
+  descriptionChunks:
+  - 'The external abdominal oblique is a broad muscle responsible for compressing
+    the abdominal cavity and assisting in trunk rotation. It plays a vital role in
+    breathing by helping expel air during forced expiration. Additionally, it supports
+    internal organs and contributes to overall core stability. '
+  - This muscle works with other abdominal muscles to enable bending, twisting, and
+    maintaining posture. Its function is essential for both movement and protection
+    of internal structures, ensuring proper coordination and stability of the trunk.

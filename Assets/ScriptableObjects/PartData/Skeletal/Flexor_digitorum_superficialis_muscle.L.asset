@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Flexor_digitorum_superficialis_muscle.L
   partName: Flexor_digitorum_superficialis_muscle.L
-  descriptionChunks: []
+  descriptionChunks:
+  - 'This muscle flexes the digits and supports weight-bearing by maintaining proper
+    positioning of the toes. It plays a key role in stabilizing the limb during movement
+    and ensuring efficient locomotion. '
+  - The muscle works in coordination with other flexors to provide controlled motion
+    of the digits. Its function is essential for maintaining balance, preventing
+    injury, and supporting overall limb stability.

@@ -14,4 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Extensor_digitorum_digitalis_communis_muscle.L
   partName: Extensor_digitorum_digitalis_communis_muscle.L
-  descriptionChunks: []
+  descriptionChunks:
+  - 'The extensor digitorum communis extends the digits and assists in extending
+    the wrist joint. It plays a vital role in straightening the toes during movement,
+    ensuring proper limb placement. This muscle contributes to coordinated locomotion
+    by maintaining balance and stability. '
+  - It works with other extensor muscles to provide controlled extension of the digits.
+    Its function is essential for smooth gait patterns and preventing abnormal limb
+    positioning during dynamic activities.

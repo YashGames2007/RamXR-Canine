@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Flexor_carpi_radialis_muscle.R
   partName: Flexor_carpi_radialis_muscle.R
-  descriptionChunks: []
+  descriptionChunks:
+  - The flexor carpi radialis is responsible for flexing the wrist joint and assisting
+    in controlled limb movement. It plays an important role in stabilizing the joint
+    during various activities, including weight-bearing and locomotion.
+  - ' This muscle works in coordination with other flexors to ensure smooth and controlled
+    wrist motion. It also contributes to maintaining proper limb posture and alignment.
+    Its function is essential for precise control and efficient movement of the forelimb.'

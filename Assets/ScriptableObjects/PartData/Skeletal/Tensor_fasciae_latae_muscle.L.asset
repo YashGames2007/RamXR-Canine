@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Tensor_fasciae_latae_muscle.L
   partName: Tensor_fasciae_latae_muscle.L
-  descriptionChunks: []
+  descriptionChunks:
+  - 'This muscle stabilizes the hip joint and assists in limb movement by tensioning
+    the fascia lata. It plays an important role in maintaining proper alignment and
+    coordination of the hindlimb. '
+  - The muscle also contributes to flexion of the hip and stabilization during locomotion.
+    By working with surrounding muscles, it ensures smooth and controlled movement,
+    supporting both balance and strength in dynamic activities.

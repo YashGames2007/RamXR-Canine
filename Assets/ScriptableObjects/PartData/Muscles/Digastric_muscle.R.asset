@@ -15,5 +15,10 @@ MonoBehaviour:
   id: Digastric_muscle.R
   partName: Digastric muscle R
   descriptionChunks:
-  - 1
-  - 2
+  - 'The digastric muscle consists of two muscular bellies connected by a tendon
+    and is primarily responsible for lowering the mandible to open the mouth. It
+    works together with other suprahyoid muscles to elevate and stabilize the hyoid
+    bone during swallowing and speech. '
+  - This dual functionality makes it essential for feeding and vocalization. It also
+    helps coordinate movements between the jaw and neck, ensuring smooth transitions
+    during actions such as chewing, speaking, and swallowing.

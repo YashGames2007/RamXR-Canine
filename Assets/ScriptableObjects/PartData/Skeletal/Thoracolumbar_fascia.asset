@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Thoracolumbar_fascia
   partName: Thoracolumbar_fascia
-  descriptionChunks: []
+  descriptionChunks:
+  - The thoracolumbar fascia is a strong connective tissue structure that supports
+    the spine and connects multiple muscle groups across the back. It plays a crucial
+    role in transmitting forces between the upper and lower body, ensuring coordinated
+    movement. This fascia provides stability to the spine and serves as an attachment
+    point for several muscles.
+  - ' It also helps maintain posture and allows efficient movement by integrating
+    muscular activity, making it essential for structural support and functional
+    coordination.'

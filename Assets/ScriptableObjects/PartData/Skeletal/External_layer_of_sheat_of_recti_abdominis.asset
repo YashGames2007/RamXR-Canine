@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: External_layer_of_sheat_of_recti_abdominis
   partName: External_layer_of_sheat_of_recti_abdominis
-  descriptionChunks: []
+  descriptionChunks:
+  - 'This structure is a layer of connective tissue that surrounds the rectus abdominis
+    muscle and plays a significant role in maintaining abdominal integrity. It supports
+    internal organs and helps distribute mechanical forces across the abdominal wall.
+    The layer also contributes to posture and core stability by reinforcing the abdominal
+    region. '
+  - Working with surrounding muscles, it assists in breathing, movement, and protection
+    of internal structures, ensuring proper function and structural support of the
+    abdominal cavity.

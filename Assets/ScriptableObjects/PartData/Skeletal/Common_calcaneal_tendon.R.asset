@@ -14,4 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Common_calcaneal_tendon.R
   partName: Common_calcaneal_tendon.R
-  descriptionChunks: []
+  descriptionChunks:
+  - 'The common calcaneal tendon is a strong structure that connects major hindlimb
+    muscles to the calcaneus, functioning similarly to the Achilles tendon. It enables
+    powerful extension of the hock joint, which is essential for push-off during
+    walking, running, and jumping. '
+  - This tendon plays a crucial role in weight-bearing and locomotion. By transmitting
+    muscular force efficiently, it allows coordinated and powerful movement, making
+    it vital for overall limb function.

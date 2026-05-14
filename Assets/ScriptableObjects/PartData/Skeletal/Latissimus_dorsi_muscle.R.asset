@@ -14,4 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Latissimus_dorsi_muscle.R
   partName: Latissimus_dorsi_muscle.R
-  descriptionChunks: []
+  descriptionChunks:
+  - 'The latissimus dorsi is a large, powerful back muscle that pulls the forelimb
+    backward and downward. It plays a key role in movements such as running, climbing,
+    and jumping. This muscle also assists in stabilizing the trunk during locomotion. '
+  - By working with shoulder and limb muscles, it ensures efficient force transfer
+    and coordinated motion. Its strength and size make it essential for powerful
+    movements, contributing significantly to overall mobility, stability, and physical
+    performance.

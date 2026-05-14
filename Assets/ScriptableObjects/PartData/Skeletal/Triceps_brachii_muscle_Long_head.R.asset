@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Triceps_brachii_muscle_Long_head.R
   partName: Triceps_brachii_muscle_Long_head.R
-  descriptionChunks: []
+  descriptionChunks:
+  - 'The triceps brachii is a large, multi-headed muscle responsible for extending
+    the elbow joint. It plays a vital role in pushing movements and supports body
+    weight during standing and locomotion. Each head contributes to powerful extension,
+    ensuring effective limb straightening. '
+  - The muscle also helps stabilize the shoulder and elbow joints during activity.
+    It works in coordination with other muscles to provide strength, balance, and
+    controlled motion, making it essential for activities such as running, jumping,
+    and weight-bearing.

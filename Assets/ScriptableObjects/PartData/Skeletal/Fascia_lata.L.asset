@@ -14,4 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Fascia_lata.L
   partName: Fascia_lata.L
-  descriptionChunks: []
+  descriptionChunks:
+  - The fascia lata is a dense connective tissue layer that surrounds and supports
+    the thigh muscles. It plays an important role in maintaining structural integrity
+    and distributing mechanical forces during movement. This tissue helps coordinate
+    muscle function and supports efficient locomotion.
+  - ' It also contributes to stability by reinforcing the thigh region. By connecting
+    different muscle groups, it ensures smooth transfer of force and enhances overall
+    limb performance.'

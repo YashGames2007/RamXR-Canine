@@ -14,4 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Biceps_femoris_muscle.R
   partName: Biceps_femoris_muscle.R
-  descriptionChunks: []
+  descriptionChunks:
+  - 'The biceps femoris is a large and powerful muscle located in the thigh, responsible
+    for extending the hip and hock while flexing the knee. It plays a major role
+    in propulsion during locomotion, especially in activities such as running and
+    jumping. '
+  - This muscle also contributes to stabilization of the hindlimb. By coordinating
+    with other muscles, it ensures efficient and powerful movement, making it essential
+    for speed, strength, and overall mobility.

@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Thoracic_part_of_trapezius_muscle.L
   partName: Thoracic_part_of_trapezius_muscle.L
-  descriptionChunks: []
+  descriptionChunks:
+  - 'This portion of the trapezius stabilizes and moves the scapula, supporting upper
+    back and shoulder function. It plays a key role in maintaining posture and enabling
+    coordinated limb movements. '
+  - The muscle assists in pulling the scapula backward and stabilizing it during
+    motion. It works in conjunction with other back and shoulder muscles to ensure
+    efficient and balanced movement.

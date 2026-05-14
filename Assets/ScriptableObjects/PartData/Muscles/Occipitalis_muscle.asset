@@ -15,4 +15,10 @@ MonoBehaviour:
   id: Occipitalis_muscle
   partName: Occipitalis muscle
   descriptionChunks:
-  - q
+  - 'The occipitalis muscle is located at the back of the head and is primarily involved
+    in moving the scalp. It works in conjunction with the frontalis muscle to control
+    scalp tension and positioning. '
+  - Although its role in facial expression is minor, it contributes to subtle movements
+    such as raising the scalp or assisting in ear movement in some animals. It also
+    helps maintain tension in the scalp, which can indirectly support other facial
+    muscle functions.

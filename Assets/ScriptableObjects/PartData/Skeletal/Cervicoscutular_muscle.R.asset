@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Cervicoscutular_muscle.R
   partName: Cervicoscutular_muscle.R
-  descriptionChunks: []
+  descriptionChunks:
+  - 'The cervicoscutular muscle is a thin, superficial muscle that primarily assists
+    in moving the skin over the neck and shoulder region. It also contributes to
+    minor shoulder movements and plays a role in subtle adjustments of body positioning. '
+  - Although not a major force-generating muscle, it is important for fine motor
+    control and flexibility. It helps maintain skin tension and supports coordinated
+    movement between the neck and upper limb structures.

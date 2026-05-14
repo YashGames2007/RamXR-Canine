@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Gastrocnemius_muscle.L
   partName: Gastrocnemius_muscle.L
-  descriptionChunks: []
+  descriptionChunks:
+  - 'The gastrocnemius is a large and powerful muscle responsible for extending the
+    hock and flexing the knee. It plays a critical role in propulsion, especially
+    during running and jumping. '
+  - This muscle generates significant force, allowing strong push-off from the ground.
+    It also contributes to stability and coordination of the hindlimb. Working with
+    the common calcaneal tendon, it ensures efficient transfer of force during movement.

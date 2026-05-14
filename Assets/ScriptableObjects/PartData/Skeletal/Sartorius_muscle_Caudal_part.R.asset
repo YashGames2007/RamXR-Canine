@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Sartorius_muscle_Caudal_part.R
   partName: Sartorius_muscle_Caudal_part.R
-  descriptionChunks: []
+  descriptionChunks:
+  - 'The semitendinosus extends the hip and hock while flexing the knee, making it
+    essential for coordinated hindlimb movement. It plays a key role in propulsion
+    during locomotion and contributes to overall strength and flexibility. '
+  - This muscle works with the semimembranosus and biceps femoris to ensure efficient
+    movement. Its function is crucial for activities such as running, jumping, and
+    maintaining balance.

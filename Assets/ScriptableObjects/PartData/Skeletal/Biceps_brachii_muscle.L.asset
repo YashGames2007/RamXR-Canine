@@ -14,4 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Biceps_brachii_muscle.L
   partName: Biceps_brachii_muscle.L
-  descriptionChunks: []
+  descriptionChunks:
+  - 'The biceps brachii is a prominent muscle of the forelimb responsible for flexing
+    the elbow joint and stabilizing the shoulder. It plays an essential role in lifting
+    the limb and supporting body weight during movement. '
+  - This muscle also helps control limb positioning and contributes to coordinated
+    motion. Working together with the brachialis and other muscles, it ensures smooth
+    and controlled flexion. Its dual function in both movement and stabilization
+    makes it crucial for efficient locomotion and strength.

@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Clavicular_intersection.R
   partName: Clavicular_intersection.R
-  descriptionChunks: []
+  descriptionChunks:
+  - 'The clavicular intersection is the anatomical region where several shoulder
+    muscles converge near the clavicle, serving as an important point for force transmission.
+    It enables coordinated movement between the neck, shoulder, and forelimb by distributing
+    mechanical loads efficiently. '
+  - This region provides both stability and flexibility, allowing smooth limb motion
+    during locomotion. It also acts as an anchoring area for muscles involved in
+    movement, ensuring effective transfer of force during activities such as walking,
+    running, lifting, and maintaining balanced posture.

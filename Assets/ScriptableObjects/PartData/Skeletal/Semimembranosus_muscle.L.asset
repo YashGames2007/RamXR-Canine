@@ -14,4 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Semimembranosus_muscle.L
   partName: Semimembranosus_muscle.L
-  descriptionChunks: []
+  descriptionChunks:
+  - 'The semimembranosus is a powerful muscle involved in extending the hip and flexing
+    the knee. It plays a significant role in propulsion and stabilization of the
+    hindlimb. '
+  - This muscle works with other posterior thigh muscles to generate force during
+    movement. It is especially important during activities requiring strength and
+    endurance, such as running and jumping, contributing to efficient and controlled
+    locomotion.

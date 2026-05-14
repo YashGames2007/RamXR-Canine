@@ -14,4 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Cervical_part_of_trapezius_muscle.R
   partName: Cervical_part_of_trapezius_muscle.R
-  descriptionChunks: []
+  descriptionChunks:
+  - 'This portion of the trapezius muscle supports head and neck movement by stabilizing
+    and positioning the cervical region. It assists in lifting, turning, and extending
+    the head, allowing for a wide range of motion. '
+  - The muscle also plays a role in maintaining posture by supporting the weight
+    of the head. It works in coordination with other neck muscles to ensure smooth
+    and controlled movements, especially during activities requiring balance and
+    directional changes.

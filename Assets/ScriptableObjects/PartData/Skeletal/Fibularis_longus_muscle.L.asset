@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Fibularis_longus_muscle.L
   partName: Fibularis_longus_muscle.L
-  descriptionChunks: []
+  descriptionChunks:
+  - 'The fibularis longus is responsible for flexing the hock and stabilizing the
+    limb during movement. It plays an important role in maintaining balance and proper
+    limb alignment. '
+  - This muscle helps control foot placement and contributes to coordinated locomotion.
+    By working with other lower limb muscles, it ensures smooth and stable movement,
+    particularly during dynamic activities such as walking or running.

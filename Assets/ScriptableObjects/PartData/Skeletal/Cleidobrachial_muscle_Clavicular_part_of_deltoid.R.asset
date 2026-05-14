@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Cleidobrachial_muscle_Clavicular_part_of_deltoid.R
   partName: Cleidobrachial_muscle_Clavicular_part_of_deltoid.R
-  descriptionChunks: []
+  descriptionChunks:
+  - 'The cleidobrachial muscle is part of the brachiocephalicus group and primarily
+    functions to extend the forelimb forward. It plays a crucial role in locomotion
+    by advancing the limb in a controlled and coordinated manner during walking and
+    running. '
+  - Additionally, it helps stabilize the shoulder joint, preventing excessive movement.
+    This muscle works in conjunction with neck and shoulder muscles to maintain smooth,
+    rhythmic motion and contributes significantly to stride length, balance, and
+    efficient forward propulsion during dynamic activities.

@@ -14,4 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Extensor_carpi_radialis_muscle.R
   partName: Extensor_carpi_radialis_muscle.R
-  descriptionChunks: []
+  descriptionChunks:
+  - 'This muscle is responsible for extending the wrist joint and plays a crucial
+    role in stabilizing it during movement. It ensures proper positioning of the
+    limb, especially during weight-bearing activities. By maintaining wrist extension,
+    it supports efficient locomotion and prevents collapse of the joint. '
+  - The muscle works in coordination with other extensors to provide smooth and controlled
+    motion. It is particularly important for maintaining balance and proper posture
+    during walking, running, and standing.

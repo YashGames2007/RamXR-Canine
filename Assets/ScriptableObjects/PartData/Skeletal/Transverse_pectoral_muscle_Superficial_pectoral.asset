@@ -14,4 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Transverse_pectoral_muscle_Superficial_pectoral
   partName: Transverse_pectoral_muscle_Superficial_pectoral
-  descriptionChunks: []
+  descriptionChunks:
+  - 'The transverse pectoral muscle runs across the chest and functions to adduct
+    the forelimbs, drawing them toward the midline of the body. It plays an important
+    role in stabilizing the chest and maintaining proper posture during movement. '
+  - By controlling limb positioning, it contributes to coordinated locomotion and
+    prevents excessive lateral movement. This muscle works in synergy with other
+    chest muscles to provide both stability and controlled force, ensuring efficient
+    and balanced motion.

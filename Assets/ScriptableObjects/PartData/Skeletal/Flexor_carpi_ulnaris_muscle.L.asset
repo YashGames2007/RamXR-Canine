@@ -14,4 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Flexor_carpi_ulnaris_muscle.L
   partName: Flexor_carpi_ulnaris_muscle.L
-  descriptionChunks: []
+  descriptionChunks:
+  - This muscle assists in flexing the wrist joint and stabilizing it during movement.
+    It plays a supportive role in maintaining proper limb posture and ensuring controlled
+    motion. The muscle works alongside other flexor muscles to provide balanced and
+    coordinated wrist function. It is particularly important during weight-bearing
+    activities, where stability is crucial. By supporting joint integrity, it helps
+    prevent injury and contributes to efficient locomotion and limb control.
+  - It is particularly important during weight-bearing activities, where stability
+    is crucial. By supporting joint integrity, it helps prevent injury and contributes
+    to efficient locomotion and limb control.

@@ -14,4 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Masseter_muscle.L
   partName: Masseter muscle L
-  descriptionChunks: []
+  descriptionChunks:
+  - 'The masseter is one of the primary muscles of mastication and is responsible
+    for elevating the mandible to close the jaw. It generates significant force,
+    allowing for strong biting and chewing. This muscle is particularly well-developed
+    in individuals or animals that require powerful jaw action. '
+  - It works in coordination with other chewing muscles to ensure efficient breakdown
+    of food and plays a critical role in maintaining proper jaw alignment and stability
+    during movement.

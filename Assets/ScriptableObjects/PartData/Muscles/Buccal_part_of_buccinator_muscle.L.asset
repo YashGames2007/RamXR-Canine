@@ -14,4 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Buccal_part_of_buccinator_muscle.L
   partName: Buccal part of buccinator muscle L
-  descriptionChunks: []
+  descriptionChunks:
+  - 'This muscle forms the muscular base of the cheek and plays a crucial role in
+    mastication by compressing the cheek against the teeth. It prevents food from
+    collecting between the teeth and cheeks, ensuring efficient chewing. '
+  - It also assists in actions such as blowing, sucking, and whistling by maintaining
+    intraoral pressure. Additionally, it works in coordination with the lips and
+    tongue to control facial expressions and speech, contributing to overall oral
+    function and fine motor control.

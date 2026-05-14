@@ -14,4 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Brachialis_muscle.R
   partName: Brachialis_muscle.R
-  descriptionChunks: []
+  descriptionChunks:
+  - 'The brachialis is a deep muscle located beneath the biceps brachii and serves
+    as the primary flexor of the elbow joint. It is responsible for bending the forelimb
+    and generating consistent force during flexion. '
+  - Unlike the biceps, it focuses purely on elbow movement, providing stability and
+    control. This muscle is especially important for precise limb positioning and
+    controlled movements. It works continuously during locomotion to maintain proper
+    joint function and contributes significantly to forelimb strength and endurance.

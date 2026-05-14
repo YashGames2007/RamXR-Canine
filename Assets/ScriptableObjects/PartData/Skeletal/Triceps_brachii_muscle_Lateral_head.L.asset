@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Triceps_brachii_muscle_Lateral_head.L
   partName: Triceps_brachii_muscle_Lateral_head.L
-  descriptionChunks: []
+  descriptionChunks:
+  - 
+  - 

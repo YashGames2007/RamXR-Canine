@@ -15,5 +15,10 @@ MonoBehaviour:
   id: Levator_labii_superioris_muscle.R
   partName: Levator labii superioris muscle R
   descriptionChunks:
-  - 1
-  - 2
+  - The levator labii superioris raises the upper lip, exposing the upper teeth and
+    contributing to expressions such as smiling, snarling, or showing displeasure.
+    It plays an important role in speech articulation by adjusting the position of
+    the lip. This muscle works in coordination with other facial muscles to produce
+    complex expressions and movements.
+  - ' It is also involved in emotional signaling, helping convey reactions like disgust,
+    aggression, or surprise through controlled elevation of the upper lip.'

@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Deep_cervicoauricular_muscle.L
   partName: Deep_cervicoauricular_muscle.L
-  descriptionChunks: []
+  descriptionChunks:
+  - 'This muscle connects the neck region to the ear and is responsible for moving
+    the ear backward. It plays a role in directional hearing by allowing the ear
+    to adjust its position in response to sounds. '
+  - Although small, it contributes to sensory awareness and environmental responsiveness.
+    It works alongside other auricular muscles to provide precise control over ear
+    movements, enhancing the ability to detect and localize sounds.

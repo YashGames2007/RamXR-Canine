@@ -14,4 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Extensor_digitorum_digitalis_lateralis_muscle.R
   partName: Extensor_digitorum_digitalis_lateralis_muscle.R
-  descriptionChunks: []
+  descriptionChunks:
+  - 'This muscle assists in extending the lateral digits and supports overall limb
+    stability. It works alongside the extensor digitorum communis to ensure proper
+    extension and positioning of the toes. By contributing to balanced digit movement,
+    it helps maintain stability during locomotion. '
+  - It also plays a role in preventing excessive strain on individual digits. This
+    muscle is important for coordinated movement and proper distribution of forces
+    across the limb during weight-bearing activities.
