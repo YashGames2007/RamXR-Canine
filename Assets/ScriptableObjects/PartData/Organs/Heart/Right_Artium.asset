@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 486f137ac72fd004c9131b1648f76380, type: 3}
+  m_Name: Right_Artium
+  m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
+  id: Right_Artium
+  partName: Right Artium
+  descriptionChunks:
+  - The atria are the upper chambers of the heart that receive blood returning to
+    the heart. The right atrium collects deoxygenated blood from the body. These
+    chambers play a key role in regulating blood flow into the ventricles.
+  - By ensuring proper filling of the heart, they contribute to efficient circulation.
+    Their coordinated function is essential for maintaining a steady and continuous
+    flow of blood throughout the body.

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 486f137ac72fd004c9131b1648f76380, type: 3}
+  m_Name: TesticleR
+  m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
+  id: TesticleR
+  partName: Right Testicle
+  descriptionChunks:
+  - The testicles are male reproductive organs responsible for producing sperm and
+    hormones such as testosterone. They play a central role in reproduction and development
+    of secondary sexual characteristics.
+  - These organs ensure continuous sperm production and regulate hormonal balance.
+    Proper function is essential for fertility and maintaining reproductive health.
+    They also contribute to overall physiological regulation through hormone secretion.

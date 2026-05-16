@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 486f137ac72fd004c9131b1648f76380, type: 3}
+  m_Name: Occipital_Lobe
+  m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
+  id: Occipital_Lobe
+  partName: Occipital Lobe
+  descriptionChunks:
+  - The occipital lobe is responsible for processing visual information received
+    from the eyes. It interprets signals related to color, shape, and movement, allowing
+    the organism to understand and interact with its surroundings.
+  - This region is essential for visual perception and spatial awareness. By converting
+    sensory input into meaningful images, it supports navigation and environmental
+    interaction. Proper function of the occipital lobe is critical for recognizing
+    objects and responding appropriately to visual stimuli.

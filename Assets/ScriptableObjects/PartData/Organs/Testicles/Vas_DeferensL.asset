@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 486f137ac72fd004c9131b1648f76380, type: 3}
+  m_Name: Vas_DeferensL
+  m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
+  id: Vas_DeferensL
+  partName: Left Vas Deferens
+  descriptionChunks:
+  - 'The vas deferens is a muscular tube that transports sperm from the testicles
+    to the urethra during reproduction. It plays a critical role in ensuring the
+    movement of sperm for fertilization. '
+  - This structure stores and conveys sperm efficiently during ejaculation. Its function
+    is essential for successful reproduction and coordination within the male reproductive
+    system.

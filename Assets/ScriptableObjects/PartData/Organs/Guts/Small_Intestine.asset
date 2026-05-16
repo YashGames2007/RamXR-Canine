@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 486f137ac72fd004c9131b1648f76380, type: 3}
+  m_Name: Small_Intestine
+  m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
+  id: Small_Intestine
+  partName: Small Intestine
+  descriptionChunks:
+  - 'The small intestine is the primary site for digestion and nutrient absorption.
+    It breaks down food into simpler components and transfers nutrients into the
+    bloodstream. Its long, coiled structure increases surface area, allowing efficient
+    absorption. '
+  - This organ plays a crucial role in supplying the body with essential nutrients,
+    vitamins, and minerals. Proper function of the small intestine is vital for maintaining
+    energy levels, supporting growth, and ensuring overall metabolic health.

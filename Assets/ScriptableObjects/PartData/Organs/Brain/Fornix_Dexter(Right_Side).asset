@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 486f137ac72fd004c9131b1648f76380, type: 3}
+  m_Name: Fornix_Dexter(Right_Side)
+  m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
+  id: Fornix_Dexter(Right_Side)
+  partName: Fornix Dexter (Right Side)
+  descriptionChunks:
+  - The right fornix is a C-shaped bundle of nerve fibers within the limbic system
+    that serves as a major communication pathway between the hippocampus and other
+    brain regions. It plays a critical role in memory processing, learning, and emotional
+    regulation.
+  - This structure transmits signals that support coordination between cognitive
+    and behavioral functions. By linking key neural centers, it ensures efficient
+    information flow, contributing to memory formation and recall. Its proper function
+    is essential for maintaining stable emotional responses and supporting higher-level
+    brain activities.

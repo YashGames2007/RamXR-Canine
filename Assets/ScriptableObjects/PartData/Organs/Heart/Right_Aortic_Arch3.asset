@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 486f137ac72fd004c9131b1648f76380, type: 3}
+  m_Name: Right_Aortic_Arch3
+  m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
+  id: Right_Aortic_Arch3
+  partName: Right Aortic Arch
+  descriptionChunks:
+  - 'The right aortic arch represents an anatomical variant in which the aorta curves
+    to the right rather than the left. In dogs, a persistent right aortic arch can
+    form a vascular ring around the esophagus and trachea, potentially causing compression
+    and obstruction. '
+  - This structure, though typically a developmental variant, plays a role in vascular
+    anatomy and blood distribution. Understanding its presence is important for diagnosing
+    congenital cardiovascular conditions that may affect respiration and digestion
+    in affected animals.

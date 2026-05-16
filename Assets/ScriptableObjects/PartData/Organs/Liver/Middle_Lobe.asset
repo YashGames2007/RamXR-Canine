@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 486f137ac72fd004c9131b1648f76380, type: 3}
+  m_Name: Middle_Lobe
+  m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
+  id: Middle_Lobe
+  partName: Middle Lobe
+  descriptionChunks:
+  - The middle lobe of the liver is a distinct hepatic segment that participates
+    in the liver's core metabolic and detoxification functions. It contributes to
+    bile production, nutrient processing, and the breakdown of harmful substances
+    absorbed from the gastrointestinal tract.
+  - This lobe works in coordination with adjacent hepatic segments to ensure efficient
+    blood filtration and metabolic regulation. Its structural position allows it
+    to receive a consistent blood supply, supporting continuous biochemical activity
+    essential to overall liver function and systemic health.

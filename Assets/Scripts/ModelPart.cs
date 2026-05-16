@@ -31,6 +31,15 @@ public class ModelPart : MonoBehaviour
         }
     }
 
+    public void TurnOnLabel()
+    {
+        if (label != null)
+        {
+            Debug.Log($"Turning on label for part: {Id}");
+            label.SetActive(true);
+        }
+    }
+
     // public void ShowLabel()
     // {
     //     if (label != null)
@@ -73,6 +82,7 @@ public class ModelPart : MonoBehaviour
 
     private void OnFocusEntered(SelectEnterEventArgs args)
     {
+        Debug.Log($"Focus entered on part: {Id}");
         if (partData != null && focusEventChannel != null)
         {
             focusEventChannel.RaiseEvent(partData);

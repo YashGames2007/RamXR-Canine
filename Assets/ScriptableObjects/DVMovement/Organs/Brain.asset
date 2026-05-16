@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51cee2958d15eb842bdf9c1b5f41e5f0, type: 3}
+  m_Name: Brain
+  m_EditorClassIdentifier: Assembly-CSharp::DeepVisionMovementSequence
+  steps:
+  - targets:
+    - targetId: brain
+      position: {x: 5.707529, y: 0.13484, z: 0.3555899}
+      rotation: {x: 0, y: 0, z: 0}
+      scale: {x: 3, y: 3, z: 3}
+    duration: 1
+  - targets:
+    - targetId: brain
+      position: {x: 6.216, y: 0.13484, z: -0.49}
+      rotation: {x: 0, y: 90, z: 0}
+      scale: {x: 3, y: 3, z: 3}
+    duration: 1
+  - targets:
+    - targetId: brain
+      position: {x: 5.39353, y: 0.13484, z: -1.03241}
+      rotation: {x: 0, y: 180, z: 0}
+      scale: {x: 3, y: 3, z: 3}
+    duration: 1
+  - targets:
+    - targetId: brain
+      position: {x: 6.216, y: 0.13484, z: -0.49}
+      rotation: {x: 0, y: 90, z: 0}
+      scale: {x: 3, y: 3, z: 3}
+    duration: 1
+  - targets:
+    - targetId: brain
+      position: {x: 5.707529, y: 0.13484, z: 0.3555899}
+      rotation: {x: 0, y: 0, z: 0}
+      scale: {x: 3, y: 3, z: 3}
+    duration: 1

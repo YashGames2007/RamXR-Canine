@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 180d0828f9cf423459360235cd6922f2, type: 3}
+  m_Name: Lever
+  m_EditorClassIdentifier: Assembly-CSharp::DeepVisionTutorialSO
+  steps:
+  - The canine liver is the largest internal abdominal organ and is positioned directly
+    behind the diaphragm. It performs essential metabolic, detoxification, digestive,
+    and storage functions necessary for survival.
+  - Hepatocytes are the primary functional liver cells responsible for processing
+    nutrients, synthesizing plasma proteins, and metabolizing drugs and toxins entering
+    the bloodstream.
+  - The liver produces bile, a digestive fluid stored in the gallbladder and released
+    into the small intestine. Bile emulsifies dietary fats, improving lipid digestion
+    and nutrient absorption.
+  - Large glycogen reserves within the liver help regulate blood glucose levels between
+    meals. The liver also stores vitamins, iron, and copper for long-term metabolic
+    use.
+  - The hepatic portal system transports nutrient-rich blood from the gastrointestinal
+    tract directly to the liver before entering systemic circulation. This filtration
+    pathway allows detoxification and metabolic processing of absorbed substances.

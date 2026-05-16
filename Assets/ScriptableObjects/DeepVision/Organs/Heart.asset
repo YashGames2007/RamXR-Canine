@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 180d0828f9cf423459360235cd6922f2, type: 3}
+  m_Name: Heart
+  m_EditorClassIdentifier: Assembly-CSharp::DeepVisionTutorialSO
+  steps:
+  - The canine heart is a four-chambered muscular organ located centrally within
+    the thoracic cavity between the lungs. It continuously pumps blood throughout
+    the pulmonary and systemic circulatory systems.
+  - The right atrium and right ventricle receive deoxygenated blood from the body
+    and pump it to the lungs through the pulmonary arteries for oxygenation.
+  - The left atrium and left ventricle receive oxygenated blood from the lungs and
+    generate high-pressure contractions that distribute blood throughout the body
+    via the aorta.
+  - Cardiac valves including the tricuspid, mitral, pulmonary, and aortic valves
+    maintain one-directional blood flow and prevent backflow during each cardiac
+    cycle.
+  - The heart possesses an intrinsic electrical conduction system composed of the
+    sinoatrial node, atrioventricular node, and Purkinje fibers. These structures
+    coordinate rhythmic contraction and maintain efficient circulation.

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 486f137ac72fd004c9131b1648f76380, type: 3}
+  m_Name: Fronatal_Lobe
+  m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
+  id: Fronatal_Lobe
+  partName: Fronatal Lobe
+  descriptionChunks:
+  - The frontal lobe is responsible for higher cognitive functions, including decision-making,
+    problem-solving, planning, and voluntary movement. It plays a central role in
+    controlling behavior and coordinating complex actions.
+  - This region is essential for reasoning, judgment, and adapting to new situations.
+    It also contributes to motor control by initiating voluntary movements.
+  - The frontal lobe supports interaction with the environment by processing information
+    and generating appropriate responses, making it critical for intelligent behavior
+    and overall cognitive function.

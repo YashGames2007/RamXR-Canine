@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 486f137ac72fd004c9131b1648f76380, type: 3}
+  m_Name: Colon
+  m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
+  id: Colon
+  partName: Colon
+  descriptionChunks:
+  - 'The colon is a major part of the large intestine responsible for absorbing water
+    and electrolytes from digested material. It compacts waste into feces and prepares
+    it for elimination. '
+  - This organ plays a key role in maintaining fluid balance and supporting digestive
+    health. It also houses beneficial bacteria that aid in fermentation and nutrient
+    absorption, contributing to overall gastrointestinal function and metabolic processes.

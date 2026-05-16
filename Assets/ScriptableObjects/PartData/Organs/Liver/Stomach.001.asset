@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 486f137ac72fd004c9131b1648f76380, type: 3}
+  m_Name: Stomach.001
+  m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
+  id: Stomach.001
+  partName: Stomach
+  descriptionChunks:
+  - The stomach is a muscular organ that plays a central role in digestion by breaking
+    down food using acids and enzymes. It mechanically churns food and mixes it with
+    digestive juices to form a semi-liquid substance.
+  - This process prepares food for further digestion and nutrient absorption in the
+    intestines. The stomach also helps regulate the release of food into the small
+    intestine. Its function is essential for efficient digestion and proper nutrient
+    processing.

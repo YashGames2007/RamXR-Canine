@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 486f137ac72fd004c9131b1648f76380, type: 3}
+  m_Name: Brain_Steam
+  m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
+  id: Brain_Steam
+  partName: Brain Steam
+  descriptionChunks:
+  - The brain stem is a vital structure connecting the brain to the spinal cord and
+    controls essential life functions such as breathing, heart rate, and reflexes.
+    It regulates involuntary activities necessary for survival and coordinates signals
+    between the brain and body.
+  - This region plays a fundamental role in maintaining consciousness and basic physiological
+    processes. Any disruption to the brain stem can severely affect vital functions,
+    making it one of the most critical components of the nervous system.

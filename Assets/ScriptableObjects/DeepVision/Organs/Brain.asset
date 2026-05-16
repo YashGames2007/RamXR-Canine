@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 180d0828f9cf423459360235cd6922f2, type: 3}
+  m_Name: Brain
+  m_EditorClassIdentifier: Assembly-CSharp::DeepVisionTutorialSO
+  steps:
+  - The canine brain is the central control organ of the nervous system, protected
+    within the cranial cavity of the skull. It coordinates sensory processing, voluntary
+    movement, autonomic regulation, learning, memory, and behavioral responses.
+  - The cerebrum is the largest region of the canine brain and is divided into left
+    and right hemispheres. It processes conscious thought, environmental awareness,
+    emotional behavior, and interpretation of visual, auditory, and olfactory information.
+  - The cerebellum is positioned caudally beneath the cerebrum and is responsible
+    for balance, posture, and precision of muscular coordination. It continuously
+    refines motor activity to maintain smooth and controlled movement.
+  - The brainstem includes the midbrain, pons, and medulla oblongata, connecting
+    the brain to the spinal cord. It regulates vital involuntary functions including
+    respiration, heart rate, swallowing, and sleep-wake cycles.
+  - "The canine olfactory bulb is proportionally larger than in humans, reflecting
+    the dog\u2019s exceptional sense of smell. Olfactory receptor pathways enable
+    advanced scent detection used in tracking, hunting, and environmental recognition."
