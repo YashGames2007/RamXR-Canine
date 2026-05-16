@@ -180,7 +180,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4887999443879211566, guid: 93cac7b193b5c894e90059f8b3324b28, type: 3}
       propertyPath: m_Name
-      value: newinfo_panel Variant 1 Variant
+      value: finalnewinfo_panel Variant 1 Variant
       objectReference: {fileID: 0}
     - target: {fileID: 5092280225352045075, guid: 93cac7b193b5c894e90059f8b3324b28, type: 3}
       propertyPath: m_AnchorMax.x
@@ -240,7 +240,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5318158325816200056, guid: 93cac7b193b5c894e90059f8b3324b28, type: 3}
       propertyPath: m_Size
-      value: 0.99999994
+      value: 0.9999998
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318158325816200056, guid: 93cac7b193b5c894e90059f8b3324b28, type: 3}
+      propertyPath: m_Value
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6151627833101252699, guid: 93cac7b193b5c894e90059f8b3324b28, type: 3}
       propertyPath: m_Color.b
@@ -326,6 +330,30 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8406745223165925459, guid: 93cac7b193b5c894e90059f8b3324b28, type: 3}
+      propertyPath: _titleText
+      value: 
+      objectReference: {fileID: 7532352236023203475}
+    - target: {fileID: 8406745223165925459, guid: 93cac7b193b5c894e90059f8b3324b28, type: 3}
+      propertyPath: _nextButton
+      value: 
+      objectReference: {fileID: 1190959189453097311}
+    - target: {fileID: 8406745223165925459, guid: 93cac7b193b5c894e90059f8b3324b28, type: 3}
+      propertyPath: _ttsSpeaker
+      value: 
+      objectReference: {fileID: 7387955956633391979}
+    - target: {fileID: 8406745223165925459, guid: 93cac7b193b5c894e90059f8b3324b28, type: 3}
+      propertyPath: _listenButton
+      value: 
+      objectReference: {fileID: 4183343055693111725}
+    - target: {fileID: 8406745223165925459, guid: 93cac7b193b5c894e90059f8b3324b28, type: 3}
+      propertyPath: _previousButton
+      value: 
+      objectReference: {fileID: 2566793746624738368}
+    - target: {fileID: 8406745223165925459, guid: 93cac7b193b5c894e90059f8b3324b28, type: 3}
+      propertyPath: _descriptionText
+      value: 
+      objectReference: {fileID: 8365798659704169756}
     - target: {fileID: 8673335567094941464, guid: 93cac7b193b5c894e90059f8b3324b28, type: 3}
       propertyPath: m_SizeDelta.x
       value: 60
@@ -375,3 +403,69 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 93cac7b193b5c894e90059f8b3324b28, type: 3}
+--- !u!114 &1190959189453097311 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8247727255717372913, guid: 93cac7b193b5c894e90059f8b3324b28, type: 3}
+  m_PrefabInstance: {fileID: 7130028543337147054}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Button
+--- !u!114 &2566793746624738368 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4714677818653630190, guid: 93cac7b193b5c894e90059f8b3324b28, type: 3}
+  m_PrefabInstance: {fileID: 7130028543337147054}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Button
+--- !u!114 &4183343055693111725 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6412223682708425475, guid: 93cac7b193b5c894e90059f8b3324b28, type: 3}
+  m_PrefabInstance: {fileID: 7130028543337147054}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Button
+--- !u!114 &7387955956633391979 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 321367335977679301, guid: 93cac7b193b5c894e90059f8b3324b28, type: 3}
+  m_PrefabInstance: {fileID: 7130028543337147054}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b15403450229c3a4b8455a61d6143a6d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Meta.WitAi.TTS::Meta.WitAi.TTS.Utilities.TTSSpeaker
+--- !u!114 &7532352236023203475 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 755119693723462717, guid: 93cac7b193b5c894e90059f8b3324b28, type: 3}
+  m_PrefabInstance: {fileID: 7130028543337147054}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &8365798659704169756 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1651618891599351730, guid: 93cac7b193b5c894e90059f8b3324b28, type: 3}
+  m_PrefabInstance: {fileID: 7130028543337147054}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
