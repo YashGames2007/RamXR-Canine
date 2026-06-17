@@ -122,7 +122,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 7872310104425100343}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: InfoPanelController, Assembly-CSharp
         m_MethodName: Previous
         m_Mode: 1
@@ -963,7 +963,6 @@ GameObject:
   - component: {fileID: 3637461307690931886}
   - component: {fileID: 5094087847601046209}
   - component: {fileID: 478852462876729243}
-  - component: {fileID: 7872310104425100343}
   m_Layer: 0
   m_Name: info panel
   m_TagString: Untagged
@@ -1276,20 +1275,6 @@ MonoBehaviour:
   m_MinAngleAllowed: 0.1
   m_MaxAngleAllowed: 5
   m_TimeUntilThresholdReachesMaxAngle: 3
---- !u!114 &7872310104425100343
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3142043057748499437}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 82d4bf9ef495fd0488ca4ca38c77baef, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::InfoPanelController
-  titleText: {fileID: 2290875310675797230}
-  descriptionText: {fileID: 3628609581048783015}
 --- !u!1 &3564737890288330104
 GameObject:
   m_ObjectHideFlags: 0
@@ -2937,7 +2922,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 7872310104425100343}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: InfoPanelController, Assembly-CSharp
         m_MethodName: Next
         m_Mode: 1
