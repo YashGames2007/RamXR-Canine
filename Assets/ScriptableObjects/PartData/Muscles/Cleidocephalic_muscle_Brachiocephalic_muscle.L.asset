@@ -15,5 +15,9 @@ MonoBehaviour:
   id: Cleidocephalic_muscle_Brachiocephalic_muscle.L
   partName: Cleidocephalic muscle Brachiocephalic muscle L
   descriptionChunks:
-  - 1
-  - 2
+  - This muscle is part of the brachiocephalic group and is responsible for extending
+    the head and neck forward. It plays an important role in locomotion by assisting
+    in forward movement of the body.
+  - ' It also helps maintain posture by stabilizing the head during motion. The muscle
+    works in coordination with limb muscles to ensure efficient and balanced movement,
+    particularly during walking, running, or other dynamic activities.'

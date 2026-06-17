@@ -15,5 +15,9 @@ MonoBehaviour:
   id: Zygomaticus_muscle.R
   partName: Zygomaticus muscle R
   descriptionChunks:
-  - 1
-  - 2
+  - The zygomaticus muscle extends from the cheekbone to the corner of the mouth
+    and is primarily responsible for pulling the lips upward and backward. This action
+    is essential for expressions such as smiling or showing tension.
+  - ' It plays a significant role in emotional expression and social communication.
+    By working with other facial muscles, it helps create a wide range of expressions,
+    contributing to non-verbal cues and enhancing interpersonal interactions.'

@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Omotransverse_muscle.L
   partName: Omotransverse_muscle.L
-  descriptionChunks: []
+  descriptionChunks:
+  - 'The omotransverse muscle connects the neck to the shoulder and assists in advancing
+    the forelimb during movement. It also helps flex the neck laterally, allowing
+    side-to-side motion. '
+  - This dual function makes it important for both locomotion and flexibility. It
+    works with surrounding muscles to coordinate limb and neck movements, ensuring
+    smooth transitions during activities such as walking, running, and turning.

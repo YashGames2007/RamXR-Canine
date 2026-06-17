@@ -15,5 +15,10 @@ MonoBehaviour:
   id: Levator_anguli_oculi_medialis_muscle.L
   partName: Levator anguli oculi medialis muscle L
   descriptionChunks:
-  - 1
-  - 2
+  - 'This small facial muscle elevates the medial angle of the eye, contributing
+    to subtle facial expressions such as concern, alertness, or tension. Although
+    not a major muscle, it plays an important role in fine-tuning movements around
+    the eye. It works alongside surrounding periorbital muscles to control eyelid
+    positioning and enhance non-verbal communication. '
+  - Its function is particularly important in conveying emotional nuances and maintaining
+    precise control over delicate eye region movements.

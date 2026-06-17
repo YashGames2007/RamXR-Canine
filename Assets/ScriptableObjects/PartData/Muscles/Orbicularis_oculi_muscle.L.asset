@@ -15,5 +15,10 @@ MonoBehaviour:
   id: Orbicularis_oculi_muscle.L
   partName: Orbicularis oculi muscle L
   descriptionChunks:
-  - 1
-  - 2
+  - 'This circular muscle surrounds the eye and is responsible for closing the eyelids.
+    It plays a crucial role in blinking, which helps keep the eyes moist and protected
+    from debris. It is also involved in voluntary eye closure, such as squinting
+    or tightly shutting the eyes. '
+  - The muscle works continuously to maintain eye health by distributing tears evenly
+    across the surface of the eye, preventing dryness and irritation while contributing
+    to expressive facial movements.

@@ -15,5 +15,10 @@ MonoBehaviour:
   id: Mandibular_gland.R
   partName: Mandibular gland R
   descriptionChunks:
-  - 1
-  - 2
+  - 'The mandibular gland is a salivary gland located near the lower jaw and plays
+    an essential role in digestion. It produces saliva, which contains enzymes that
+    begin the breakdown of food and aid in swallowing. '
+  - The saliva also lubricates food, making it easier to chew and pass through the
+    digestive tract. Additionally, it helps maintain oral hygiene by washing away
+    food particles and bacteria, contributing to overall oral health and efficient
+    digestive processes.

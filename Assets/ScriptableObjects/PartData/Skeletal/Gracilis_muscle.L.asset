@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Gracilis_muscle.L
   partName: Gracilis_muscle.L
-  descriptionChunks: []
+  descriptionChunks:
+  - The gracilis is a long, flat muscle located on the medial side of the thigh and
+    is responsible for adducting the limb. It helps bring the limb toward the midline
+    of the body and supports coordinated movement. This muscle also contributes to
+    stability and balance during locomotion.
+  - ' It works with other muscles to control limb positioning and ensure smooth transitions
+    during movement, making it important for overall coordination.'

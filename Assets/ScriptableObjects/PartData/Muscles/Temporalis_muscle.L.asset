@@ -15,5 +15,9 @@ MonoBehaviour:
   id: Temporalis_muscle.L
   partName: Temporalis muscle L
   descriptionChunks:
-  - 1
-  - 2
+  - 'The temporalis is a large, fan-shaped muscle located on the side of the skull
+    and is a major contributor to jaw closure. It elevates and retracts the mandible,
+    allowing for powerful and controlled chewing. '
+  - This muscle works alongside the masseter to provide the force needed for biting.
+    It also plays a role in maintaining proper jaw alignment and ensuring smooth,
+    coordinated movements during mastication and speech.

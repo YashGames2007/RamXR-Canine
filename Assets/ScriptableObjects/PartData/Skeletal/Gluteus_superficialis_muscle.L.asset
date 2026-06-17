@@ -14,4 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Gluteus_superficialis_muscle.L
   partName: Gluteus_superficialis_muscle.L
-  descriptionChunks: []
+  descriptionChunks:
+  - 'This muscle assists in extending the hip and stabilizing the hindlimb during
+    movement. It plays a supportive role in maintaining posture and enabling smooth
+    locomotion. '
+  - Although not as powerful as deeper muscles, it contributes to coordinated limb
+    motion. It works in conjunction with other gluteal muscles to ensure proper alignment
+    and stability. Its function is important for maintaining balance and controlled
+    movement of the hindlimb.

@@ -14,4 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Gluteus_medius_muscle.L
   partName: Gluteus_medius_muscle.L
-  descriptionChunks: []
+  descriptionChunks:
+  - 'The gluteus medius is a major muscle responsible for extending and abducting
+    the hip joint. It provides significant power during locomotion, particularly
+    in running and jumping. '
+  - This muscle also stabilizes the pelvis, ensuring balance during movement. It
+    works with other hip muscles to maintain proper alignment and control. Its role
+    is essential for generating strong and coordinated hindlimb movements, contributing
+    to both strength and endurance.

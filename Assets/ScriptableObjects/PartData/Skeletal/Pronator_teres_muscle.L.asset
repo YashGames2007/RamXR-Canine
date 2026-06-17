@@ -14,4 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Pronator_teres_muscle.L
   partName: Pronator_teres_muscle.L
-  descriptionChunks: []
+  descriptionChunks:
+  - 'The pronator teres is responsible for rotating the forearm inward, allowing
+    proper positioning of the limb. This rotational movement is essential for coordinated
+    motion and functional limb use. '
+  - The muscle works with other forearm muscles to ensure smooth and controlled rotation.
+    It plays a key role in adjusting limb orientation during movement, especially
+    in tasks requiring precision. Its function contributes to overall flexibility
+    and adaptability of the forelimb.

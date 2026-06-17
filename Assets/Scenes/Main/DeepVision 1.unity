@@ -6607,7 +6607,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8771091787928289351, guid: 978f9b61981070443aea50ea61afd2d3, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -36334,7 +36334,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb060c5948087e5449e335dd69cbf90c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InformationPanelUI
-  infoText: {fileID: 1885320121}
+  focusEventChannel: {fileID: 0}
+  titleText: {fileID: 0}
+  descriptionText: {fileID: 0}
+  previousButton: {fileID: 0}
+  nextButton: {fileID: 0}
 --- !u!23 &8110109417229026035
 MeshRenderer:
   m_ObjectHideFlags: 0

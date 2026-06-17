@@ -14,4 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Sartorius_muscle_Cranial_part.L
   partName: Sartorius_muscle_Cranial_part.L
-  descriptionChunks: []
+  descriptionChunks:
+  - 'The sartorius is a long muscle that functions to flex the hip and extend the
+    knee, aiding in forward movement of the limb. It plays a key role in locomotion
+    by helping advance the hindlimb. '
+  - This muscle also contributes to coordination and balance during movement. It
+    works alongside other thigh muscles to ensure smooth and efficient motion. Its
+    function is essential for proper gait and controlled limb movement.

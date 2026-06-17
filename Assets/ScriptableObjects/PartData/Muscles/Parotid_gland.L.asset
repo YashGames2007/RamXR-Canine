@@ -15,4 +15,9 @@ MonoBehaviour:
   id: Parotid_gland.L
   partName: Parotid gland L
   descriptionChunks:
-  - 1
+  - 'The parotid gland is the largest salivary gland and is located near the ear.
+    It produces a watery, enzyme-rich saliva that plays a key role in the initial
+    stages of digestion, particularly in breaking down starches. '
+  - The gland also aids in lubricating food, making swallowing easier. In addition
+    to its digestive function, it contributes to oral health by cleansing the mouth
+    and controlling bacterial growth, ensuring a balanced and functional oral environment.

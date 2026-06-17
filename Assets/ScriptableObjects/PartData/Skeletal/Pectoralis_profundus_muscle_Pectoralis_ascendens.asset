@@ -14,4 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ModelPartDataSO
   id: Pectoralis_profundus_muscle_Pectoralis_ascendens
   partName: Pectoralis_profundus_muscle_Pectoralis_ascendens
-  descriptionChunks: []
+  descriptionChunks:
+  - 'The pectoralis profundus is a deep chest muscle responsible for pulling the
+    forelimb backward and supporting body weight. It plays a critical role in stabilizing
+    the trunk during locomotion, especially in weight-bearing situations. '
+  - This muscle helps maintain overall body balance and contributes to controlled
+    limb positioning. Working with other pectoral muscles, it ensures smooth and
+    powerful backward movement, making it essential for activities such as running,
+    pulling, and maintaining stability during motion.
